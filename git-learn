@@ -17,3 +17,5 @@ git log 查看日志
 	ck = checkout
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cD) %C(bold blue)<%an>%Creset' --abbrev-commit --
         llg = log --oneline --decorate --all --graph --stat
+
+keep updating...
